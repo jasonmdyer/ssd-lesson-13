@@ -1,1 +1,1 @@
-# ssd-lesson-13
+# SuperSimpleDev HTML & CSS Course Lesson 13
